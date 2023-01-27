@@ -13,7 +13,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-.hero-box-container {
+.main-menu {
     background-color: #EDFBFE;
     background-image: url("/bg-hero-desktop.svg");
     background-repeat: no-repeat;
@@ -141,7 +141,7 @@ body {
     display: block;
 }
 
-.footer {
+.footer-wrapper {
     background-color: #00252E;
     color: white;
     padding: 150px 100px 50px;
