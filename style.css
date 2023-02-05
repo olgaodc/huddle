@@ -194,7 +194,6 @@ body {
     fill: white;
 }
 
-.footer .footer-logo path:hover,
 .footer .social-media-wrapper .social-media-item svg:hover {
     fill: #FB52BF;
 }
